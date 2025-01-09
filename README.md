@@ -18,13 +18,18 @@ Loan Amount Analysis (Linear Regression):
 
 
 
-# Addressed missing values using KNN imputation for numerical data and most frequent imputation for categorical data.
-Winsorized outliers and standardized numerical variables for robust modeling.
-Linear Regression:
+**Addressed missing values** using KNN imputation for numerical data and most frequent imputation for categorical data.
+**Winsorized outliers** and standardized numerical variables for robust modeling.
+
+
+
+# Linear Regression:
 
 Adjusted for heteroscedasticity using log transformations.
 Ensured multicollinearity and autocorrelation assumptions were met.
-Logistic Regression:
+
+
+# Logistic Regression:
 
 Evaluated model performance using confusion matrices and pseudo R² metrics.
 Incorporated non-linear effects through squared terms for income.
@@ -32,7 +37,9 @@ Features
 Data Preprocessing: Imputation, outlier handling, and standardization.
 Advanced Statistical Modeling: Robust standard errors, residual analysis, and VIF checks for multicollinearity.
 Visualization: Correlation heatmaps, Q-Q plots, and probability distributions to support insights.
-Tools and Libraries
+
+
+# Tools and Libraries
 Python: pandas, numpy, seaborn, matplotlib, statsmodels, sklearn, scipy
 Visualization: Histograms, scatter plots, Q-Q plots, heatmaps
 Statistical Techniques: Linear and logistic regression, hypothesis testing, multicollinearity diagnostics
