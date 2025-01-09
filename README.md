@@ -2,6 +2,8 @@
 Overview
 This repository contains an in-depth analysis of factors influencing loan amounts and approval probabilities using linear regression and logistic regression techniques. The project explores the relationship between borrower characteristics, property values, and loan metrics to provide actionable insights for financial institutions.
 
+**Link:** https://www.kaggle.com/datasets/nikhil1e9/loan-default
+
 
 # Research Question 1: What factors influence the size of the loan amount?
 
